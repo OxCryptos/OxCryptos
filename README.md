@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**oxcryptos/oxcryptos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|             Project\Contribution |Node/Validator/Miner|Guide| Video|
+|----------------|-------------------------------|-----------------------------|-
+|[Massa](https://massa.net/)|yes            |[read](https://teletype.in/@oxcryptos/massa-node)|[watch](https://youtu.be/iql-udLKfkc)
+|[Humanode](https://humanode.io/)          |yes            |            | [watch](https://youtu.be/aDXY9yifBwg)
+|[Penumbra](https://penumbra.zone/)          |yes|[read](https://0xcryptos.notion.site/Penumbra-e912153044e14a8980659f05cc45333e)|[watch](https://youtu.be/gMtpaUau4z8)
+|[Quai Network](https://quai.network/)|yes|[read](https://teletype.in/@oxcryptos/QUAI-node)|[watch](https://youtu.be/n04Mrm2n9Oc)
+|[Gear](https://www.gear-tech.io/)|yes|[read](https://teletype.in/@oxcryptos/gear-node)|[watch](https://youtu.be/dt2l0DRNlvk)
+|[Aptos](https://aptoslabs.com/)|yes||[watch](https://youtu.be/I2lY4vwWwig)
+|[Subspase](https://subspace.network/)|yes|[read](https://www.notion.so/SubSpace-1c9bb77eb2c14816867d37fae6f54a47)|[watch](https://youtu.be/wL9cXei0xwM)
+|[Sei](https://www.seinetwork.io/)|yes|[read](https://github.com/oxcryptos/SEI)|[1](https://youtu.be/NHNjwhKv_b4),[2](https://youtu.be/AZhjT_70WpQ)
